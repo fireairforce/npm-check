@@ -6,4 +6,3 @@ const program = require('commander')
 const pacote = require('pacote')
 const packageConfig = require('./package')
 
-// const pkgFile = fs.readFileSync(file)

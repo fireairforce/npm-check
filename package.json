@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/fireairforce/npm-check#readme",
   "bin": {
-    "check-cli": "./index.js"
+    "check-cli": "./bin/index.js"
   },
   "dependencies": {
     "commander": "^4.1.0",
