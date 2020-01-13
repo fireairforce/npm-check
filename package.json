@@ -1,0 +1,27 @@
+{
+  "name": "npm-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fireairforce/npm-check.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fireairforce/npm-check/issues"
+  },
+  "homepage": "https://github.com/fireairforce/npm-check#readme",
+  "bin": {
+    "check-cli": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^4.1.0",
+    "pacote": "^10.3.0"
+  }
+}
